@@ -1,0 +1,13 @@
+{
+  "name": "IntelligentClock",
+  "description": "A smart clock that automatically checks for your next calendar event and displays it on an LCD screen.",
+  "version": "0.9.0",
+  "main": "main.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "dependencies": {
+    "google-auth-library": "^0.9.4",
+    "googleapis": "^2.0.2"
+  }
+}
