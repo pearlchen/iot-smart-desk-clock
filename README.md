@@ -22,3 +22,7 @@ This repo contains the companion project code for the Instructables tutorial. (L
 * Add ability to configure calendar accounts from your desktop or mobile phone via a web browser during setup
 * Add an Adafruit NeoPixel ring to act as a regular clock (with the benefit of having extra LEDs to grab your attention for during the countdown)
 * Factor in walking/biking/transit/driving time to the countdown. 
+
+## Bugs
+
+Please post any bugs or questions to the [issue tracker](https://github.com/pearlchen/iot-smart-desk-clock/issues). Pull requests welcome but, for anything beyond typos, please open an issue ticket first to discuss.
