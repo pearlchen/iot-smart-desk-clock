@@ -4,4 +4,6 @@
 
 *.xdke
 
-/iot-version/client_secret.json
+client_secret.json
+
+node_modules
