@@ -21,8 +21,9 @@ $  opkg install upm
 var LcdTextHelper = require('./lcd_text_helper');
 var GoogleCalendarEventFetcher = require('./google_calendar_event_fetcher');
 /*
-Download lcd_text_helper.js from https://gist.github.com/pearlchen/31ac996f8688a01cc5b6
-Download both lcd_text_helper.js and google_calendar_event_fetcher.js from ...TODO: Pull from Github project....
+If you don't already have these 2 files, 
+download both lcd_text_helper.js and google_calendar_event_fetcher.js from:
+https://github.com/pearlchen/iot-smart-desk-clock/tree/master/iot-version
 */
 
 /**
