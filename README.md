@@ -12,7 +12,7 @@ I call this clock the "Intel-ligent Clock" because it's powered by the Intel Edi
 
 ## Tutorial
 
-This repo contains the companion project code for the Instructables tutorial. (Link coming soon!)
+This repo contains the companion project code for the "Make an intelligent desk clock powered by the Intel Edison" Instructables tutorial. [Follow the tutorial.](http://www.instructables.com/id/Make-an-intelligent-desk-clock-powered-by-the-Inte/)
 
 ## Roadmap
 
