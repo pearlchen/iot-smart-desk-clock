@@ -16,6 +16,7 @@ This repo contains the companion project code for the "Make an intelligent desk 
 
 ## Roadmap
 
+* Create a pattern to laser cut an enclosure
 * Add unit tests for testing various dates against various events
 * Place the LCD Text Helper library on NPM so you can install it via the command line
 * Add support for multiple calendars (or calendar accounts)
